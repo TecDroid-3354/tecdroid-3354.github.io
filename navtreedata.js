@@ -25,31 +25,27 @@
 var NAVTREE =
 [
   [ "TecDroid Template", "index.html", [
+    [ "TecDroid-Template", "md__r_e_a_d_m_e.html", null ],
+    [ "TecDroid-License", "md__tec_droid__license.html", null ],
     [ "WPILib-License", "md__w_p_i_lib__license.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
       [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
-        [ "All", "functions.html", "functions_dup" ],
-        [ "Functions", "functions_func.html", "functions_func" ]
+        [ "All", "functions.html", null ],
+        [ "Functions", "functions_func.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
-      [ "File List", "files.html", "files_dup" ],
-      [ "File Members", "globals.html", [
-        [ "All", "globals.html", null ],
-        [ "Functions", "globals_func.html", null ],
-        [ "Variables", "globals_vars.html", null ]
-      ] ]
+      [ "File List", "files.html", "files_dup" ]
     ] ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"_align_8cpp.html",
-"class_feeder.html#a2db2368dc4de4c6ca7d531a43d0f206f"
+"_claw_base_8cpp_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

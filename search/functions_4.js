@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['feed_0',['Feed',['../class_feed.html#a60b65616d5fb91643775fcec6699b466',1,'Feed']]],
-  ['feeder_1',['Feeder',['../class_feeder.html#a6e19de83bb7db588512f6ca8772a944e',1,'Feeder']]]
+  ['feed_0',['Feed',['../class_tec_droid_1_1_feeder_base.html#af8016247a572b299d48a6f6645b9b5b2',1,'TecDroid::FeederBase']]],
+  ['feederbase_1',['FeederBase',['../class_tec_droid_1_1_feeder_base.html#a770a1e8794411aa4b2f84d14f00c69e9',1,'TecDroid::FeederBase::FeederBase(MotorConfig, unsigned int)'],['../class_tec_droid_1_1_feeder_base.html#a01974c69fcd139b646079744c332a824',1,'TecDroid::FeederBase::FeederBase(MotorConfig, vector&lt; unsigned int &gt;)']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['handoff_0',['HandOff',['../class_claw.html#a35572e4b83e0bd1e7ffdc9e21aa52ee7',1,'Claw']]]
+  ['handoff_0',['HandOff',['../class_tec_droid_1_1_claw_base.html#a007a08a494a741782a75602070e73f1b',1,'TecDroid::ClawBase']]]
 ];
